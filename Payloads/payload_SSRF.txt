@@ -1,0 +1,3 @@
+http://localhost/admin
+http://169.254.169.254/latest/meta-data/iam/security-credentials/
+http://example.com:80/admin

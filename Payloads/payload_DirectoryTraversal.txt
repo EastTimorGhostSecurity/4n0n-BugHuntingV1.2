@@ -1,0 +1,3 @@
+../../../../var/www/html/uploads/../../../../etc/shadow
+../../../../usr/bin/../lib/../local/bin
+../../../../var/www/html/../../../../etc/ssh/sshd_config

