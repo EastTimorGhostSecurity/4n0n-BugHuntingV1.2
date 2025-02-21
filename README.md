@@ -25,7 +25,7 @@
  
  🛠️ Clone Repository from GitHub
 
-    git clone https://github.com/username/4n0n-BugHuntingV1.2.git
+    git clone https://github.com/EastTimorGhostSecurity/4n0n-BugHuntingV1.2.git
     cd 4n0n-BugHuntingV1.2
 
  🖥 Windows
